@@ -2,7 +2,7 @@
 import { Chart } from "react-google-charts";
 import React, { useState } from "react";
 
-function Chartpie() {
+function Chartcolumn() {
   const [tableVisible, setTableVisible] = useState(false);
   const [clickedData, setclickedData] = useState();
   const chartData = [
@@ -34,7 +34,7 @@ function Chartpie() {
   return (
     <div>
       <Chart
-        chartType="PieChart"
+        chartType="ColumnChart"
         width={"500px"}
         height={"300px"}
         data={chartData}
@@ -99,4 +99,4 @@ function Chartpie() {
   );
 }
 
-export default Chartpie;
+export default Chartcolumn;

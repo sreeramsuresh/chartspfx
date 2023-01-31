@@ -1,0 +1,1898 @@
+[
+ {
+  "SL": 1,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Annual and routine compliance activities",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Kira"
+ },
+ {
+  "SL": 2,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Annual and routine compliance activities",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Luminance"
+ },
+ {
+  "SL": 3,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Annual and routine compliance activities",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Contract Express"
+ },
+ {
+  "SL": 4,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Annual and routine compliance activities",
+  "SubFunctionality": null,
+  "TechnologySolutions": "iManage"
+ },
+ {
+  "SL": 5,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Annual and routine compliance activities",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Analytics Hub (TSSA)"
+ },
+ {
+  "SL": 6,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Annual and routine compliance activities",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY EMS"
+ },
+ {
+  "SL": 7,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Annual and routine compliance activities",
+  "SubFunctionality": null,
+  "TechnologySolutions": "OGM"
+ },
+ {
+  "SL": 8,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Annual and routine compliance activities",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY ECG Knowledge Mgmt Portal"
+ },
+ {
+  "SL": 9,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Annual and routine compliance activities",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Law Exchange"
+ },
+ {
+  "SL": 10,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Annual and routine compliance activities",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Virtual Global Law Platform"
+ },
+ {
+  "SL": 11,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Annual and routine compliance activities",
+  "SubFunctionality": null,
+  "TechnologySolutions": "PowerBI"
+ },
+ {
+  "SL": 12,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Kira"
+ },
+ {
+  "SL": 13,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Luminance"
+ },
+ {
+  "SL": 14,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Analytics Hub (TSSA)"
+ },
+ {
+  "SL": 15,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY EMS"
+ },
+ {
+  "SL": 16,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY ECG Knowledge Mgmt Portal"
+ },
+ {
+  "SL": 17,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Research, Analytics & Reporting"
+ },
+ {
+  "SL": 18,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Deal Intelligence"
+ },
+ {
+  "SL": 19,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Virtual Global Law Platform"
+ },
+ {
+  "SL": 20,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": null,
+  "TechnologySolutions": "PowerBI"
+ },
+ {
+  "SL": 21,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Director Training",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Director's Training Portal"
+ },
+ {
+  "SL": 22,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Director Training",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Virtual Global Law Platform"
+ },
+ {
+  "SL": 23,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Health checks and program assessments",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Kira"
+ },
+ {
+  "SL": 24,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Health checks and program assessments",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Luminance"
+ },
+ {
+  "SL": 25,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Health checks and program assessments",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Analytics Hub (TSSA)"
+ },
+ {
+  "SL": 26,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Health checks and program assessments",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY EMS"
+ },
+ {
+  "SL": 27,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Health checks and program assessments",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY ECG Knowledge Mgmt Portal"
+ },
+ {
+  "SL": 28,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Health checks and program assessments",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Virtual Global Law Platform"
+ },
+ {
+  "SL": 29,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Health checks and program assessments",
+  "SubFunctionality": null,
+  "TechnologySolutions": "PowerBI"
+ },
+ {
+  "SL": 30,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Program and Governance Assessment",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Analytics Hub (TSSA)"
+ },
+ {
+  "SL": 31,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Program and Governance Assessment",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY EMS"
+ },
+ {
+  "SL": 32,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Program and Governance Assessment",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY ECG Knowledge Mgmt Portal"
+ },
+ {
+  "SL": 33,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Program and Governance Assessment",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Virtual Global Law Platform"
+ },
+ {
+  "SL": 34,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Program and Governance Assessment",
+  "SubFunctionality": null,
+  "TechnologySolutions": "PowerBI"
+ },
+ {
+  "SL": 35,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Data Management",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Kira"
+ },
+ {
+  "SL": 36,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Data Management",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Luminance"
+ },
+ {
+  "SL": 37,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Data Management",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Contract Express"
+ },
+ {
+  "SL": 38,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Data Management",
+  "SubFunctionality": null,
+  "TechnologySolutions": "iManage"
+ },
+ {
+  "SL": 39,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Data Management",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Analytics Hub (TSSA)"
+ },
+ {
+  "SL": 40,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Data Management",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY EMS"
+ },
+ {
+  "SL": 41,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Data Management",
+  "SubFunctionality": null,
+  "TechnologySolutions": "OGM"
+ },
+ {
+  "SL": 42,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Data Management",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY ECG Knowledge Mgmt Portal"
+ },
+ {
+  "SL": 43,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Data Management",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Law Exchange"
+ },
+ {
+  "SL": 44,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Data Management",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Virtual Global Law Platform"
+ },
+ {
+  "SL": 45,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Legal Entity Data Management",
+  "SubFunctionality": null,
+  "TechnologySolutions": "PowerBI"
+ },
+ {
+  "SL": 46,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Governance Analytics",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Analytics Hub (TSSA)"
+ },
+ {
+  "SL": 47,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Governance Analytics",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY EMS"
+ },
+ {
+  "SL": 48,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Governance Analytics",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Virtual Global Law Platform"
+ },
+ {
+  "SL": 49,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Entity Compliance and Governance (ECG)",
+  "Functionality": "Governance Analytics",
+  "SubFunctionality": null,
+  "TechnologySolutions": "PowerBI"
+ },
+ {
+  "SL": 50,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "TPRM Support",
+  "TechnologySolutions": "eBravia"
+ },
+ {
+  "SL": 51,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "TPRM Support",
+  "TechnologySolutions": "Kira"
+ },
+ {
+  "SL": 52,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "TPRM Support",
+  "TechnologySolutions": "Relativity"
+ },
+ {
+  "SL": 53,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Negotiations  of procurement and financial contracts",
+  "TechnologySolutions": "MARS"
+ },
+ {
+  "SL": 54,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Negotiations  of procurement and financial contracts",
+  "TechnologySolutions": "Kim"
+ },
+ {
+  "SL": 55,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Negotiations  of procurement and financial contracts",
+  "TechnologySolutions": "DocuSign"
+ },
+ {
+  "SL": 56,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Negotiations  of procurement and financial contracts",
+  "TechnologySolutions": "Agiloft"
+ },
+ {
+  "SL": 57,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Negotiations  of procurement and financial contracts",
+  "TechnologySolutions": "Sirion Labs"
+ },
+ {
+  "SL": 58,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Negotiations  of procurement and financial contracts",
+  "TechnologySolutions": "Onit"
+ },
+ {
+  "SL": 59,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Negotiations  of procurement and financial contracts",
+  "TechnologySolutions": "ServiceNow"
+ },
+ {
+  "SL": 60,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Regulatory and internal repapering support",
+  "TechnologySolutions": "eBravia"
+ },
+ {
+  "SL": 61,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Regulatory and internal repapering support",
+  "TechnologySolutions": "Kira"
+ },
+ {
+  "SL": 62,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Regulatory and internal repapering support",
+  "TechnologySolutions": "Lyncs"
+ },
+ {
+  "SL": 63,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Regulatory and internal repapering support",
+  "TechnologySolutions": "Luminance"
+ },
+ {
+  "SL": 64,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Regulatory and internal repapering support",
+  "TechnologySolutions": "Relativity"
+ },
+ {
+  "SL": 65,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Regulatory and internal repapering support",
+  "TechnologySolutions": "Reveal"
+ },
+ {
+  "SL": 66,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Regulatory and internal repapering support",
+  "TechnologySolutions": "Kim"
+ },
+ {
+  "SL": 67,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Regulatory and internal repapering support",
+  "TechnologySolutions": "DocuSign"
+ },
+ {
+  "SL": 68,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Regulatory and internal repapering support",
+  "TechnologySolutions": "Agiloft"
+ },
+ {
+  "SL": 69,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Regulatory and internal repapering support",
+  "TechnologySolutions": "Sirion Labs"
+ },
+ {
+  "SL": 70,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Regulatory and internal repapering support",
+  "TechnologySolutions": "Onit"
+ },
+ {
+  "SL": 71,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Regulatory and internal repapering support",
+  "TechnologySolutions": "ServiceNow"
+ },
+ {
+  "SL": 72,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Client Onboarding documentation support",
+  "TechnologySolutions": "iManage"
+ },
+ {
+  "SL": 73,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Client Onboarding documentation support",
+  "TechnologySolutions": "DocuSign"
+ },
+ {
+  "SL": 74,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Client Onboarding documentation support",
+  "TechnologySolutions": "Agiloft"
+ },
+ {
+  "SL": 75,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Client Onboarding documentation support",
+  "TechnologySolutions": "Sirion Labs"
+ },
+ {
+  "SL": 76,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Client Onboarding documentation support",
+  "TechnologySolutions": "Onit"
+ },
+ {
+  "SL": 77,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Contract negotiations ",
+  "SubFunctionality": "Client Onboarding documentation support",
+  "TechnologySolutions": "ServiceNow"
+ },
+ {
+  "SL": 78,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Investor Subscription packet review, tax form validation and reporting",
+  "TechnologySolutions": "eBravia"
+ },
+ {
+  "SL": 79,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Investor Subscription packet review, tax form validation and reporting",
+  "TechnologySolutions": "Kira"
+ },
+ {
+  "SL": 80,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Investor Subscription packet review, tax form validation and reporting",
+  "TechnologySolutions": "Relativity"
+ },
+ {
+  "SL": 81,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Investor Subscription contracting ",
+  "TechnologySolutions": "Kim"
+ },
+ {
+  "SL": 82,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Investor Subscription contracting ",
+  "TechnologySolutions": "DocuSign"
+ },
+ {
+  "SL": 83,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Investor Subscription contracting ",
+  "TechnologySolutions": "Agiloft"
+ },
+ {
+  "SL": 84,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Investor Subscription contracting ",
+  "TechnologySolutions": "Sirion Labs"
+ },
+ {
+  "SL": 85,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Investor Subscription contracting ",
+  "TechnologySolutions": "Onit"
+ },
+ {
+  "SL": 86,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Contract Analytics and industry benchmarking",
+  "TechnologySolutions": "eBravia"
+ },
+ {
+  "SL": 87,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Contract Analytics and industry benchmarking",
+  "TechnologySolutions": "Kira"
+ },
+ {
+  "SL": 88,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Contract Analytics and industry benchmarking",
+  "TechnologySolutions": "Lyncs"
+ },
+ {
+  "SL": 89,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Contract Analytics and industry benchmarking",
+  "TechnologySolutions": "Luminance"
+ },
+ {
+  "SL": 90,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Contract Analytics and industry benchmarking",
+  "TechnologySolutions": "Relativity"
+ },
+ {
+  "SL": 91,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Contract Analytics and industry benchmarking",
+  "TechnologySolutions": "Reveal"
+ },
+ {
+  "SL": 92,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Contract Analytics and industry benchmarking",
+  "TechnologySolutions": "EY Analytics Hub (TSSA)"
+ },
+ {
+  "SL": 93,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Contract Analytics and industry benchmarking",
+  "TechnologySolutions": "DocuSign"
+ },
+ {
+  "SL": 94,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Contract Analytics and industry benchmarking",
+  "TechnologySolutions": "Agiloft"
+ },
+ {
+  "SL": 95,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Contract Analytics and industry benchmarking",
+  "TechnologySolutions": "Sirion Labs"
+ },
+ {
+  "SL": 96,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Contract Analytics and industry benchmarking",
+  "TechnologySolutions": "Onit"
+ },
+ {
+  "SL": 97,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Contract Analytics and industry benchmarking",
+  "TechnologySolutions": "ServiceNow"
+ },
+ {
+  "SL": 98,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Contract Analytics and industry benchmarking",
+  "TechnologySolutions": "Contracts Intelligence Dashboards"
+ },
+ {
+  "SL": 99,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Contract Analytics and industry benchmarking",
+  "TechnologySolutions": "MARS"
+ },
+ {
+  "SL": 100,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Contract Analytics and industry benchmarking",
+  "TechnologySolutions": "EY Virtual Global Law Platform"
+ },
+ {
+  "SL": 101,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Contract Analytics and industry benchmarking",
+  "TechnologySolutions": "PowerBI"
+ },
+ {
+  "SL": 102,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Negotiations of banking instruments, ISDAs, Repos",
+  "TechnologySolutions": "Kim"
+ },
+ {
+  "SL": 103,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Negotiations of banking instruments, ISDAs, Repos",
+  "TechnologySolutions": "DocuSign"
+ },
+ {
+  "SL": 104,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Negotiations of banking instruments, ISDAs, Repos",
+  "TechnologySolutions": "Agiloft"
+ },
+ {
+  "SL": 105,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Negotiations of banking instruments, ISDAs, Repos",
+  "TechnologySolutions": "Sirion Labs"
+ },
+ {
+  "SL": 106,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Negotiations of banking instruments, ISDAs, Repos",
+  "TechnologySolutions": "Onit"
+ },
+ {
+  "SL": 107,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Wealth and Asset Management",
+  "SubFunctionality": "Negotiations of banking instruments, ISDAs, Repos",
+  "TechnologySolutions": "ServiceNow"
+ },
+ {
+  "SL": 108,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Sell/Separate and Buy/Integrate side support",
+  "TechnologySolutions": "eBravia"
+ },
+ {
+  "SL": 109,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Sell/Separate and Buy/Integrate side support",
+  "TechnologySolutions": "Kira"
+ },
+ {
+  "SL": 110,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Sell/Separate and Buy/Integrate side support",
+  "TechnologySolutions": "Relativity"
+ },
+ {
+  "SL": 111,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Sell/Separate and Buy/Integrate side support",
+  "TechnologySolutions": "Agiloft"
+ },
+ {
+  "SL": 112,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Sell/Separate and Buy/Integrate side support",
+  "TechnologySolutions": "Sirion Labs"
+ },
+ {
+  "SL": 113,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Sell/Separate and Buy/Integrate side support",
+  "TechnologySolutions": "Onit"
+ },
+ {
+  "SL": 114,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Sell/Separate and Buy/Integrate side support",
+  "TechnologySolutions": "ServiceNow"
+ },
+ {
+  "SL": 115,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Document classification, review and due diligence analysis",
+  "TechnologySolutions": "eBravia"
+ },
+ {
+  "SL": 116,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Document classification, review and due diligence analysis",
+  "TechnologySolutions": "Kira"
+ },
+ {
+  "SL": 117,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Document classification, review and due diligence analysis",
+  "TechnologySolutions": "Lyncs"
+ },
+ {
+  "SL": 118,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Document classification, review and due diligence analysis",
+  "TechnologySolutions": "Luminance"
+ },
+ {
+  "SL": 119,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Document classification, review and due diligence analysis",
+  "TechnologySolutions": "Relativity"
+ },
+ {
+  "SL": 120,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Document classification, review and due diligence analysis",
+  "TechnologySolutions": "Reveal"
+ },
+ {
+  "SL": 121,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Document classification, review and due diligence analysis",
+  "TechnologySolutions": "iManage"
+ },
+ {
+  "SL": 122,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Document classification, review and due diligence analysis",
+  "TechnologySolutions": "EY Analytics Hub (TSSA)"
+ },
+ {
+  "SL": 123,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Document classification, review and due diligence analysis",
+  "TechnologySolutions": "DocuSign"
+ },
+ {
+  "SL": 124,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Document classification, review and due diligence analysis",
+  "TechnologySolutions": "Agiloft"
+ },
+ {
+  "SL": 125,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Document classification, review and due diligence analysis",
+  "TechnologySolutions": "Sirion Labs"
+ },
+ {
+  "SL": 126,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Document classification, review and due diligence analysis",
+  "TechnologySolutions": "Onit"
+ },
+ {
+  "SL": 127,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Document classification, review and due diligence analysis",
+  "TechnologySolutions": "Contracts Intelligence Dashboards"
+ },
+ {
+  "SL": 128,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Client and vendor outreach",
+  "TechnologySolutions": "Relativity"
+ },
+ {
+  "SL": 129,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Client and vendor outreach",
+  "TechnologySolutions": "Contract Express"
+ },
+ {
+  "SL": 130,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Client and vendor outreach",
+  "TechnologySolutions": "HighQ"
+ },
+ {
+  "SL": 131,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Client and vendor outreach",
+  "TechnologySolutions": "EY Analytics Hub (TSSA)"
+ },
+ {
+  "SL": 132,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Client and vendor outreach",
+  "TechnologySolutions": "DocuSign"
+ },
+ {
+  "SL": 133,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Client and vendor outreach",
+  "TechnologySolutions": "Agiloft"
+ },
+ {
+  "SL": 134,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Client and vendor outreach",
+  "TechnologySolutions": "Sirion Labs"
+ },
+ {
+  "SL": 135,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Client and vendor outreach",
+  "TechnologySolutions": "Onit"
+ },
+ {
+  "SL": 136,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Client and vendor outreach",
+  "TechnologySolutions": "Thomson Reuters"
+ },
+ {
+  "SL": 137,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Client and vendor outreach",
+  "TechnologySolutions": "ServiceNow"
+ },
+ {
+  "SL": 138,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Client and vendor outreach",
+  "TechnologySolutions": "EY Virtual Global Law Platform"
+ },
+ {
+  "SL": 139,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Client and vendor outreach",
+  "TechnologySolutions": "PowerBI"
+ },
+ {
+  "SL": 140,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Playbook, workflow and process design",
+  "TechnologySolutions": "Contract Express"
+ },
+ {
+  "SL": 141,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Playbook, workflow and process design",
+  "TechnologySolutions": "HighQ"
+ },
+ {
+  "SL": 142,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Playbook, workflow and process design",
+  "TechnologySolutions": "iManage"
+ },
+ {
+  "SL": 143,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Playbook, workflow and process design",
+  "TechnologySolutions": "DocuSign"
+ },
+ {
+  "SL": 144,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Playbook, workflow and process design",
+  "TechnologySolutions": "Agiloft"
+ },
+ {
+  "SL": 145,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Playbook, workflow and process design",
+  "TechnologySolutions": "Sirion Labs"
+ },
+ {
+  "SL": 146,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Playbook, workflow and process design",
+  "TechnologySolutions": "Onit"
+ },
+ {
+  "SL": 147,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Playbook, workflow and process design",
+  "TechnologySolutions": "Thomson Reuters"
+ },
+ {
+  "SL": 148,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Playbook, workflow and process design",
+  "TechnologySolutions": "EY Law Exchange"
+ },
+ {
+  "SL": 149,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Post-close contract migration to new or legacy systems",
+  "TechnologySolutions": "eBravia"
+ },
+ {
+  "SL": 150,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Post-close contract migration to new or legacy systems",
+  "TechnologySolutions": "Kira"
+ },
+ {
+  "SL": 151,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Post-close contract migration to new or legacy systems",
+  "TechnologySolutions": "Lyncs"
+ },
+ {
+  "SL": 152,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Post-close contract migration to new or legacy systems",
+  "TechnologySolutions": "Luminance"
+ },
+ {
+  "SL": 153,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Post-close contract migration to new or legacy systems",
+  "TechnologySolutions": "Relativity"
+ },
+ {
+  "SL": 154,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Post-close contract migration to new or legacy systems",
+  "TechnologySolutions": "Reveal"
+ },
+ {
+  "SL": 155,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Post-close contract migration to new or legacy systems",
+  "TechnologySolutions": "iManage"
+ },
+ {
+  "SL": 156,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Post-close contract migration to new or legacy systems",
+  "TechnologySolutions": "EY Analytics Hub (TSSA)"
+ },
+ {
+  "SL": 157,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Post-close contract migration to new or legacy systems",
+  "TechnologySolutions": "Agiloft"
+ },
+ {
+  "SL": 158,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Contract Lifecycle Management (CLM)",
+  "Functionality": "Transactions Support",
+  "SubFunctionality": "Post-close contract migration to new or legacy systems",
+  "TechnologySolutions": "Sirion Labs"
+ },
+ {
+  "SL": 159,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Legal and Regulatory Research",
+  "SubFunctionality": null,
+  "TechnologySolutions": "eBravia"
+ },
+ {
+  "SL": 160,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Legal and Regulatory Research",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Relativity"
+ },
+ {
+  "SL": 161,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Legal and Regulatory Research",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Analytics Hub (TSSA)"
+ },
+ {
+  "SL": 162,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Legal and Regulatory Research",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Onit"
+ },
+ {
+  "SL": 163,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Legal and Regulatory Research",
+  "SubFunctionality": null,
+  "TechnologySolutions": "ServiceNow"
+ },
+ {
+  "SL": 164,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Legal and Regulatory Research",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY R&CM"
+ },
+ {
+  "SL": 165,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Legal and Regulatory Research",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Research, Analytics & Reporting"
+ },
+ {
+  "SL": 166,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Legal and Regulatory Research",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Deal Intelligence"
+ },
+ {
+  "SL": 167,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Legal and Regulatory Research",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Virtual Global Law Platform"
+ },
+ {
+  "SL": 168,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Legal and Regulatory Research",
+  "SubFunctionality": null,
+  "TechnologySolutions": "PowerBI"
+ },
+ {
+  "SL": 169,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Legal Inventory Build",
+  "SubFunctionality": null,
+  "TechnologySolutions": "iManage"
+ },
+ {
+  "SL": 170,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Legal Inventory Build",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY R&CM"
+ },
+ {
+  "SL": 171,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Regulatory Mapping",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Analytics Hub (TSSA)"
+ },
+ {
+  "SL": 172,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Regulatory Mapping",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Onit"
+ },
+ {
+  "SL": 173,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Regulatory Mapping",
+  "SubFunctionality": null,
+  "TechnologySolutions": "ServiceNow"
+ },
+ {
+  "SL": 174,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Regulatory Mapping",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY R&CM"
+ },
+ {
+  "SL": 175,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Regulatory Mapping",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Virtual Global Law Platform"
+ },
+ {
+  "SL": 176,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Controls Gap Analysis",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Relativity"
+ },
+ {
+  "SL": 177,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Controls Gap Analysis",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY R&CM"
+ },
+ {
+  "SL": 178,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Ongoing Monitoring and Horizon Scanning",
+  "SubFunctionality": null,
+  "TechnologySolutions": "eBravia"
+ },
+ {
+  "SL": 179,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Ongoing Monitoring and Horizon Scanning",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Relativity"
+ },
+ {
+  "SL": 180,
+  "EYLEnterprLegalSer": "Legal Managed Services (LMS)",
+  "Service": "Research and Regulatory Mapping (RRM)",
+  "Functionality": "Ongoing Monitoring and Horizon Scanning",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY R&CM"
+ },
+ {
+  "SL": 181,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Operating Strategy and organizational design",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Analytics Hub (TSSA)"
+ },
+ {
+  "SL": 182,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Operating Strategy and organizational design",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Tracker (TR)"
+ },
+ {
+  "SL": 183,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Operating Strategy and organizational design",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Spend Analytics"
+ },
+ {
+  "SL": 184,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Operating Strategy and organizational design",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Virtual Global Law Platform"
+ },
+ {
+  "SL": 185,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Operating Strategy and organizational design",
+  "SubFunctionality": null,
+  "TechnologySolutions": "PowerBI"
+ },
+ {
+  "SL": 186,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Process Optimization",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Onit"
+ },
+ {
+  "SL": 187,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Process Optimization",
+  "SubFunctionality": null,
+  "TechnologySolutions": "ServiceNow"
+ },
+ {
+  "SL": 188,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Metrics and Reporting",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Analytics Hub (TSSA)"
+ },
+ {
+  "SL": 189,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Metrics and Reporting",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Tracker (TR)"
+ },
+ {
+  "SL": 190,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Metrics and Reporting",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Onit"
+ },
+ {
+  "SL": 191,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Metrics and Reporting",
+  "SubFunctionality": null,
+  "TechnologySolutions": "ServiceNow"
+ },
+ {
+  "SL": 192,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Metrics and Reporting",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Spend Analytics"
+ },
+ {
+  "SL": 193,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Metrics and Reporting",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Virtual Global Law Platform"
+ },
+ {
+  "SL": 194,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Metrics and Reporting",
+  "SubFunctionality": null,
+  "TechnologySolutions": "PowerBI"
+ },
+ {
+  "SL": 195,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Spend Analysis and strategic legal sourcing",
+  "SubFunctionality": null,
+  "TechnologySolutions": "eBravia"
+ },
+ {
+  "SL": 196,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Spend Analysis and strategic legal sourcing",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Relativity"
+ },
+ {
+  "SL": 197,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Spend Analysis and strategic legal sourcing",
+  "SubFunctionality": null,
+  "TechnologySolutions": "iManage"
+ },
+ {
+  "SL": 198,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Spend Analysis and strategic legal sourcing",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Analytics Hub (TSSA)"
+ },
+ {
+  "SL": 199,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Spend Analysis and strategic legal sourcing",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Tracker (TR)"
+ },
+ {
+  "SL": 200,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Spend Analysis and strategic legal sourcing",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Spend Analytics"
+ },
+ {
+  "SL": 201,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Spend Analysis and strategic legal sourcing",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Virtual Global Law Platform"
+ },
+ {
+  "SL": 202,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Spend Analysis and strategic legal sourcing",
+  "SubFunctionality": null,
+  "TechnologySolutions": "PowerBI"
+ },
+ {
+  "SL": 203,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Digitial Transformation",
+  "SubFunctionality": null,
+  "TechnologySolutions": "eBravia"
+ },
+ {
+  "SL": 204,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Digitial Transformation",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Relativity"
+ },
+ {
+  "SL": 205,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Digitial Transformation",
+  "SubFunctionality": null,
+  "TechnologySolutions": "iManage"
+ },
+ {
+  "SL": 206,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Digitial Transformation",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Analytics Hub (TSSA)"
+ },
+ {
+  "SL": 207,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Digitial Transformation",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Tracker (TR)"
+ },
+ {
+  "SL": 208,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Digitial Transformation",
+  "SubFunctionality": null,
+  "TechnologySolutions": "DocuSign"
+ },
+ {
+  "SL": 209,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Digitial Transformation",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Agiloft"
+ },
+ {
+  "SL": 210,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Digitial Transformation",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Sirion Labs"
+ },
+ {
+  "SL": 211,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Digitial Transformation",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Onit"
+ },
+ {
+  "SL": 212,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Digitial Transformation",
+  "SubFunctionality": null,
+  "TechnologySolutions": "ServiceNow"
+ },
+ {
+  "SL": 213,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Digitial Transformation",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Spend Analytics"
+ },
+ {
+  "SL": 214,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Digitial Transformation",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Virtual Global Law Platform"
+ },
+ {
+  "SL": 215,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Digitial Transformation",
+  "SubFunctionality": null,
+  "TechnologySolutions": "PowerBI"
+ },
+ {
+  "SL": 216,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Legal Technology Selection, evaluation and implementation",
+  "SubFunctionality": null,
+  "TechnologySolutions": "Legal Tech Hub"
+ },
+ {
+  "SL": 217,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Legal Technology Selection, evaluation and implementation",
+  "SubFunctionality": null,
+  "TechnologySolutions": "EY Virtual Global Law Platform"
+ },
+ {
+  "SL": 218,
+  "EYLEnterprLegalSer": "Legal Funcion Consulting (LFC)",
+  "Service": "Legal Funcion Consulting (LFC)",
+  "Functionality": "Legal Technology Selection, evaluation and implementation",
+  "SubFunctionality": null,
+  "TechnologySolutions": "PowerBI"
+ },
+ {
+  "SL": 219,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "Corporate and Commercial",
+  "Functionality": "Corporate Law",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 220,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "Corporate and Commercial",
+  "Functionality": "Commerical Law",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 221,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "Corporate and Commercial",
+  "Functionality": "Corporate Governance",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 222,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "M&A and Transactions",
+  "Functionality": "Private M&A",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 223,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "M&A and Transactions",
+  "Functionality": "Pre- and Post-transaction reorganizations",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 224,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "M&A and Transactions",
+  "Functionality": "Legal Due Diligence",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 225,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "M&A and Transactions",
+  "Functionality": "Workforce Restructuring",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 226,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "M&A and Transactions",
+  "Functionality": "Workforce Transaction Advice",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 227,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "Labor and Employments",
+  "Functionality": "Workforce Risk Management",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 228,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "Labor and Employments",
+  "Functionality": "Strategic Workforce Planning",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 229,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "Digital Law",
+  "Functionality": "Data Protection and Privacy Law",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 230,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "Digital Law",
+  "Functionality": "Digital IP, regulatory and E-commerce",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 231,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "Financial Services",
+  "Functionality": "Country Manuals for Cross-border financial business",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 232,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "Financial Services",
+  "Functionality": "Operating Model Effectiveness (OME)",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 233,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "Financial Services",
+  "Functionality": "Legal Entity Rationalization (LER)",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 234,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "Sustainability Legal Services",
+  "Functionality": "Environmental Sustainability",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 235,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "Sustainability Legal Services",
+  "Functionality": "Workforce Sustainability and compliance",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 236,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "Sustainability Legal Services",
+  "Functionality": "ESG Due Diligence",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ },
+ {
+  "SL": 237,
+  "EYLEnterprLegalSer": "Legal  Advisory Services (LAS)",
+  "Service": "Sustainability Legal Services",
+  "Functionality": "Sustainable finance law and regulation",
+  "SubFunctionality": null,
+  "TechnologySolutions": null
+ }
+]

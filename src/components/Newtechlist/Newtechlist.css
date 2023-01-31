@@ -1,0 +1,102 @@
+.InputSearch {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 120px;
+  padding-bottom: 30px;
+}
+
+.tablestyle tbody tr:hover td, .table tbody tr:hover th {
+  background-color: #a4a3a3;
+  color: white;
+}
+
+
+tr {
+  border: 3px rgb(215, 214, 214);
+}
+
+.tablebody:nth-child(odd) {
+  background-color: white;
+  }
+
+  .tablebody:nth-child(even) {
+  background-color: rgb(230, 230, 230);
+  }
+
+
+ .tableheader{
+  background-color: rgb(230, 230, 230);
+  border-bottom: 1px solid #000;
+  white-space: nowrap;
+}
+.tableheader>th{
+  padding: 20px 0px;
+
+}
+
+
+
+/* .modal-diaaalog {
+  top: 15%;
+} */
+
+.modal-title{
+  margin-left: 35%;
+}
+
+.modalrowdetails>div {
+  line-height: 32px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: flex-end;
+}
+.pagination> button{
+  margin-right: 30px;
+  height: 40px;
+  /* border-radius: 20%; */
+}
+
+.inputsearch {
+  display: flex;
+  flex-direction: column;
+  width: 23%;
+}
+
+.inputsearch>label{
+  margin-bottom: 20px;
+  background: #e6e6e6;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+}
+
+.contactclm{
+  white-space: nowrap;
+}
+
+.pagination>button {
+  display: inline-block;
+  /* padding: 15px 25px; */
+  /* font-size: 24px; */
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #565857;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.pagination>button:hover {background-color: #060706}
+
+.pagination>button:active {
+  background-color: #040504;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
