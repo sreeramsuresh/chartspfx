@@ -5,6 +5,7 @@ import Chartpie from "./components/Chartpie";
 import MultiSelectDropdown from "./components/MultiSelectDropdown";
 import Newtechlist from "./components/Newtechlist/Newtechlist";
 import Testfile from "./components/Testfile";
+import ReactSelection from "./components/ReactSelection";
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
       {/* <MultiSelectDropdown /> */}
       {/* <Newtechlist /> */}
       {/* <Chart2 /> */}
-      <Testfile />
+      {/* <Testfile /> */}
+      <ReactSelection/>
     </div>
   );
 }
